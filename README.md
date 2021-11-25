@@ -1,4 +1,4 @@
-# Redux Store
+# Shop Shop (Redux Store)
 
 ## Description
 Module 22 was a lesson about using a Global State Object to pass and update application state instead of using prop drilling. This assignment was to convert it form using global state and refactoring the app to use Redux. 
